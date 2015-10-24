@@ -5,6 +5,12 @@ import java.util.Date;
 import javax.servlet.http.*;
 
 @SuppressWarnings("serial")
+
+/**
+ * 
+ * @author hosieo
+ *
+ */
 public class HosieoGae3Servlet extends HttpServlet {
 	public void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException {
 		resp.setContentType("text/plain");
