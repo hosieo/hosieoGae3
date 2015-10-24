@@ -8,6 +8,7 @@ import javax.servlet.http.*;
 
 /**
  * @author hosieo
+ * October 25, 2015
  */
 public class HosieoGae3Servlet extends HttpServlet {
 	public void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException {
