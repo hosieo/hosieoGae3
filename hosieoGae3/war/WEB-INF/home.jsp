@@ -15,7 +15,7 @@
 </head>
 <body>
 	<div class="container-fluid">
-		<h1>Home</h1>
+		<h1 style="font-family: Roboto; font-weight: 100;">Home</h1>
 		<pre>The time is ${currentTime}</pre>
 	</div>
 </body>
